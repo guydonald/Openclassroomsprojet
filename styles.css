@@ -1,5 +1,7 @@
+body{
+	bg-color: #000
+}
 h1{
 	color: yellow;
 	text-align: center;
-	bg-color: #000;
 }
